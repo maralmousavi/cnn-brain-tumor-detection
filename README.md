@@ -8,6 +8,14 @@ Implementing <b>Convolutional Neural Network</b> model for classify whether the 
 ### Dataset
 I have used the dataset available on <a href="https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection">kaggle</a>
 
+<table>
+  <tr>
+    <td><img src="https://github.com/maralmousavi/cnn-brain-tumor-detection/raw/master/dataset/single_prediction/yes_or_no.jpg" width="400"></td>
+    <td><img src="https://github.com/maralmousavi/cnn-brain-tumor-detection/raw/master/dataset/single_prediction/yes_or_no3.jpg" width="400"></td>
+   </tr> 
+  </tr>
+</table>
+
 ### Acuracy Convolutional Neural Network
 ![Graph](https://github.com/maralmousavi/cnn-brain-tumor-detection/raw/master/images/Acuracy-Convolutional-Neural-Network.png)
 

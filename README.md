@@ -1,6 +1,6 @@
 # CNN Brain Tumor Detection
 
-Implementing <b>Convolutional Neural Network</b> model for classify whether the MRI brain scan has tumor or not
+Implementing <b>Convolutional Neural Network</b> model to detect Brain Tumors in patient's Brain MRI
 
 ### Convolutional Neural Network
 -  CNN = accuracy: 81%
